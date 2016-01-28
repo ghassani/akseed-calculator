@@ -10,12 +10,10 @@ When sending AT commands, some commands may require AKSEEDNO challege request an
 
 # Requirements
 
-Python 2.7 or 3.x
+Python w/ six module (2.7 or 3.x)
 
 # Usage
 Take the three numbers and pass them as arguments to the script:
 
     python akseed_calc.py [NUMBER1] [NUMBER2] [NUMBER3]
 
-# Support
-No support or help will be provided. 
