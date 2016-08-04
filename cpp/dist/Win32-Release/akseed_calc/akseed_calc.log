@@ -1,6 +1,0 @@
-﻿  main.cpp
-main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-main.cpp(41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
-  akseed_calc.vcxproj -> E:\cpp\.\build\Win32-Release\akseed_calc.exe
-  akseed_calc.vcxproj -> .\build\Win32-Release\akseed_calc.pdb (Full PDB)
