@@ -17,3 +17,5 @@ Take the three numbers and pass them as arguments to the script:
 
     python akseed_calc.py [NUMBER1] [NUMBER2] [NUMBER3]
 
+# C++ Version
+There is a c++ version as well in the cpp folder. Pre-compiled binaries can be found in the cpp/dist folder. Usage is the same.
